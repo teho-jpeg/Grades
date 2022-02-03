@@ -78,6 +78,7 @@ int main()
 
         //break for mode
 
+        for (i)
         //fills mode array
  //       for (int if=0; i<=100; i++)
    //         mode2 [i] = i;
